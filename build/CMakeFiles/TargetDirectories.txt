@@ -1,5 +1,7 @@
 /home/chenxin/cpp_Code/Chat_Cluster_Server/build/CMakeFiles/edit_cache.dir
 /home/chenxin/cpp_Code/Chat_Cluster_Server/build/CMakeFiles/rebuild_cache.dir
-/home/chenxin/cpp_Code/Chat_Cluster_Server/build/testmuduo/CMakeFiles/server.dir
-/home/chenxin/cpp_Code/Chat_Cluster_Server/build/testmuduo/CMakeFiles/edit_cache.dir
-/home/chenxin/cpp_Code/Chat_Cluster_Server/build/testmuduo/CMakeFiles/rebuild_cache.dir
+/home/chenxin/cpp_Code/Chat_Cluster_Server/build/src/CMakeFiles/edit_cache.dir
+/home/chenxin/cpp_Code/Chat_Cluster_Server/build/src/CMakeFiles/rebuild_cache.dir
+/home/chenxin/cpp_Code/Chat_Cluster_Server/build/src/server/CMakeFiles/ChatServer.dir
+/home/chenxin/cpp_Code/Chat_Cluster_Server/build/src/server/CMakeFiles/edit_cache.dir
+/home/chenxin/cpp_Code/Chat_Cluster_Server/build/src/server/CMakeFiles/rebuild_cache.dir

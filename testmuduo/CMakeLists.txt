@@ -1,7 +1,7 @@
 # 配置头文件搜索路径
 # include_directorise()
 # 配置库文件搜索路径
-# link_directories()
+# link_directories() 
 
 # 设置需要编译的源文件列表
 set(SRC_LIST ./muduo_server.cpp)
