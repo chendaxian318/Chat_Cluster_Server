@@ -218,15 +218,6 @@ chat_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 chat_SOURCE_DIR:STATIC=/home/chenxin/cpp_Code/Chat_Cluster_Server
 
-//Value Computed by CMake
-main_BINARY_DIR:STATIC=/home/chenxin/cpp_Code/Chat_Cluster_Server/build
-
-//Value Computed by CMake
-main_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-main_SOURCE_DIR:STATIC=/home/chenxin/cpp_Code/Chat_Cluster_Server
-
 
 ########################
 # INTERNAL cache entries

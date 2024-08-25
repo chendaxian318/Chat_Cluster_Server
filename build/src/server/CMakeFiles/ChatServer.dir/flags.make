@@ -4,7 +4,7 @@
 # compile CXX with /usr/lib/ccache/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/chenxin/cpp_Code/Chat_Cluster_Server/include -I/home/chenxin/cpp_Code/Chat_Cluster_Server/include/server -I/home/chenxin/cpp_Code/Chat_Cluster_Server/thirdparty
+CXX_INCLUDES = -I/home/chenxin/cpp_Code/Chat_Cluster_Server/include -I/home/chenxin/cpp_Code/Chat_Cluster_Server/include/server -I/home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/db -I/home/chenxin/cpp_Code/Chat_Cluster_Server/thirdparty
 
 CXX_FLAGS = -g
 
