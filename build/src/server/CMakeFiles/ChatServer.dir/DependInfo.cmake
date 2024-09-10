@@ -12,8 +12,11 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/chatservice.cpp" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o.d"
   "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/db/db.cpp" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o.d"
   "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/main.cpp" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/main.cpp.o.d"
-  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o.d"
-  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.o.d"
+  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/model/friendmoel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o.d"
+  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/model/groupmodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o.d"
+  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/model/offlinemessagemodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o.d"
+  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/model/usermodel.cpp" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o.d"
+  "/home/chenxin/cpp_Code/Chat_Cluster_Server/src/server/redis/redis.cpp" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o" "gcc" "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o.d"
   )
 
 # Targets to which this target links.

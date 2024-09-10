@@ -242,6 +242,19 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h \
  /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/redis/redis.hpp \
+ /usr/local/include/hiredis/hiredis.h /usr/local/include/hiredis/read.h \
+ /usr/include/x86_64-linux-gnu/sys/time.h \
+ /usr/local/include/hiredis/sds.h /usr/local/include/hiredis/alloc.h \
+ /usr/include/c++/11/thread /usr/include/c++/11/bits/std_thread.h \
+ /usr/include/c++/11/bits/this_thread_sleep.h \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/groupmodel.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/group.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/groupuser.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/user.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/friendmodel.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/usermodel.hpp \
+ /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/model/offlinemessagemodel.hpp \
  /home/chenxin/cpp_Code/Chat_Cluster_Server/thirdparty/json.hpp \
  /usr/include/c++/11/cassert /usr/include/c++/11/ciso646 \
  /usr/include/c++/11/numeric /usr/include/c++/11/bits/stl_numeric.h \
@@ -290,8 +303,5 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc /usr/include/c++/11/ostream \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
- /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/usermodel.hpp \
- /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/user.hpp \
- /home/chenxin/cpp_Code/Chat_Cluster_Server/include/server/offlinemessagemodel.hpp \
  /home/chenxin/cpp_Code/Chat_Cluster_Server/include/public.hpp \
  /usr/include/muduo/base/Logging.h /usr/include/muduo/base/LogStream.h

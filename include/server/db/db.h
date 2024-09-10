@@ -1,15 +1,13 @@
 #ifndef DB_H
 #define DB_H
 
-
 #include <mysql/mysql.h>
 #include <string>
 using namespace std;
 
-
-
 // 数据库操作类
-class MySQL{
+class MySQL
+{
 public:
     // 初始化数据库连接
     MySQL();
@@ -20,10 +18,11 @@ public:
     // 更新操作
     bool update(string sql);
     // 查询操作
-    MYSQL_RES* query(string sql);
+    MYSQL_RES *query(string sql);
     // 获取连接
     MYSQL* getConnection();
 private:
     MYSQL *_conn;
 };
+
 #endif

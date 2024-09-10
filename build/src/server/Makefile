@@ -226,53 +226,125 @@ main.cpp.s:
 	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-offlinemessagemodel.o: offlinemessagemodel.cpp.o
-.PHONY : offlinemessagemodel.o
+model/friendmoel.o: model/friendmoel.cpp.o
+.PHONY : model/friendmoel.o
 
 # target to build an object file
-offlinemessagemodel.cpp.o:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o
-.PHONY : offlinemessagemodel.cpp.o
+model/friendmoel.cpp.o:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o
+.PHONY : model/friendmoel.cpp.o
 
-offlinemessagemodel.i: offlinemessagemodel.cpp.i
-.PHONY : offlinemessagemodel.i
+model/friendmoel.i: model/friendmoel.cpp.i
+.PHONY : model/friendmoel.i
 
 # target to preprocess a source file
-offlinemessagemodel.cpp.i:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.i
-.PHONY : offlinemessagemodel.cpp.i
+model/friendmoel.cpp.i:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.i
+.PHONY : model/friendmoel.cpp.i
 
-offlinemessagemodel.s: offlinemessagemodel.cpp.s
-.PHONY : offlinemessagemodel.s
+model/friendmoel.s: model/friendmoel.cpp.s
+.PHONY : model/friendmoel.s
 
 # target to generate assembly for a file
-offlinemessagemodel.cpp.s:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.s
-.PHONY : offlinemessagemodel.cpp.s
+model/friendmoel.cpp.s:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/friendmoel.cpp.s
+.PHONY : model/friendmoel.cpp.s
 
-usermodel.o: usermodel.cpp.o
-.PHONY : usermodel.o
+model/groupmodel.o: model/groupmodel.cpp.o
+.PHONY : model/groupmodel.o
 
 # target to build an object file
-usermodel.cpp.o:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.o
-.PHONY : usermodel.cpp.o
+model/groupmodel.cpp.o:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o
+.PHONY : model/groupmodel.cpp.o
 
-usermodel.i: usermodel.cpp.i
-.PHONY : usermodel.i
+model/groupmodel.i: model/groupmodel.cpp.i
+.PHONY : model/groupmodel.i
 
 # target to preprocess a source file
-usermodel.cpp.i:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.i
-.PHONY : usermodel.cpp.i
+model/groupmodel.cpp.i:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.i
+.PHONY : model/groupmodel.cpp.i
 
-usermodel.s: usermodel.cpp.s
-.PHONY : usermodel.s
+model/groupmodel.s: model/groupmodel.cpp.s
+.PHONY : model/groupmodel.s
 
 # target to generate assembly for a file
-usermodel.cpp.s:
-	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.s
-.PHONY : usermodel.cpp.s
+model/groupmodel.cpp.s:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.s
+.PHONY : model/groupmodel.cpp.s
+
+model/offlinemessagemodel.o: model/offlinemessagemodel.cpp.o
+.PHONY : model/offlinemessagemodel.o
+
+# target to build an object file
+model/offlinemessagemodel.cpp.o:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o
+.PHONY : model/offlinemessagemodel.cpp.o
+
+model/offlinemessagemodel.i: model/offlinemessagemodel.cpp.i
+.PHONY : model/offlinemessagemodel.i
+
+# target to preprocess a source file
+model/offlinemessagemodel.cpp.i:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.i
+.PHONY : model/offlinemessagemodel.cpp.i
+
+model/offlinemessagemodel.s: model/offlinemessagemodel.cpp.s
+.PHONY : model/offlinemessagemodel.s
+
+# target to generate assembly for a file
+model/offlinemessagemodel.cpp.s:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.s
+.PHONY : model/offlinemessagemodel.cpp.s
+
+model/usermodel.o: model/usermodel.cpp.o
+.PHONY : model/usermodel.o
+
+# target to build an object file
+model/usermodel.cpp.o:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o
+.PHONY : model/usermodel.cpp.o
+
+model/usermodel.i: model/usermodel.cpp.i
+.PHONY : model/usermodel.i
+
+# target to preprocess a source file
+model/usermodel.cpp.i:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.i
+.PHONY : model/usermodel.cpp.i
+
+model/usermodel.s: model/usermodel.cpp.s
+.PHONY : model/usermodel.s
+
+# target to generate assembly for a file
+model/usermodel.cpp.s:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.s
+.PHONY : model/usermodel.cpp.s
+
+redis/redis.o: redis/redis.cpp.o
+.PHONY : redis/redis.o
+
+# target to build an object file
+redis/redis.cpp.o:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o
+.PHONY : redis/redis.cpp.o
+
+redis/redis.i: redis/redis.cpp.i
+.PHONY : redis/redis.i
+
+# target to preprocess a source file
+redis/redis.cpp.i:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.i
+.PHONY : redis/redis.cpp.i
+
+redis/redis.s: redis/redis.cpp.s
+.PHONY : redis/redis.s
+
+# target to generate assembly for a file
+redis/redis.cpp.s:
+	cd /home/chenxin/cpp_Code/Chat_Cluster_Server/build && $(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/ChatServer.dir/build.make src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.s
+.PHONY : redis/redis.cpp.s
 
 # Help Target
 help:
@@ -295,12 +367,21 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... offlinemessagemodel.o"
-	@echo "... offlinemessagemodel.i"
-	@echo "... offlinemessagemodel.s"
-	@echo "... usermodel.o"
-	@echo "... usermodel.i"
-	@echo "... usermodel.s"
+	@echo "... model/friendmoel.o"
+	@echo "... model/friendmoel.i"
+	@echo "... model/friendmoel.s"
+	@echo "... model/groupmodel.o"
+	@echo "... model/groupmodel.i"
+	@echo "... model/groupmodel.s"
+	@echo "... model/offlinemessagemodel.o"
+	@echo "... model/offlinemessagemodel.i"
+	@echo "... model/offlinemessagemodel.s"
+	@echo "... model/usermodel.o"
+	@echo "... model/usermodel.i"
+	@echo "... model/usermodel.s"
+	@echo "... redis/redis.o"
+	@echo "... redis/redis.i"
+	@echo "... redis/redis.s"
 .PHONY : help
 
 
